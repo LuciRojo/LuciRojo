@@ -1,5 +1,5 @@
 # 💫 About Me:
-Programadora en progreso<br>Experiencia HTML, CSS, JAVASCRIPT y PYTHON<br>Argentina 🇦🇷
+Programadora en proceso<br>Experiencia HTML, CSS, JAVASCRIPT y PYTHON<br>Argentina 🇦🇷
 
 
 ## 🌐 Socials:
